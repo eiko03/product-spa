@@ -1,0 +1,14 @@
+{
+    "name": "user/product_spa",
+    "type": "project",
+    "require": {
+        "firebase/php-jwt": "^5.2"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Tipu Sultan Eiko",
+            "email": "tipusultan50@gmail.com"
+        }
+    ]
+}
